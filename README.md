@@ -1,15 +1,5 @@
 # REST APIs with Flask and Python
 
-
-
-<div align="center">
-
-</div>
-
----
-
-<p align = "center">💡 A full course to teach you how to use Flask and Python to make REST APIs using multiple Flask extensions and PostgreSQL.</p>
-
 ## Getting started
 
 If you are familiar with Git, you can use Git to download it. Otherwise, you can download it as a zip file:

@@ -17,7 +17,7 @@ If you do this for the entire course, I guarantee you will learn how to make RES
 
 ## Section 2: A Full Python Refresher
 
-This section (only available on Udemy) helps programmers who are new to Python get acquainted with the language. It is not a complete-beginner Python course!
+This repo helps programmers who are new to Python get acquainted with the language. It is not a complete-beginner Python course!
 
 ## Section 3: Your first REST API
 

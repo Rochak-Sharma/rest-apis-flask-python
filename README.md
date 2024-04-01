@@ -7,7 +7,7 @@ If you are familiar with Git, you can use Git to download it. Otherwise, you can
 
 Next, start taking the course at the beginning! You can use the downloaded code files to support you while you go through the course.
 
-I also **strongly recommend** you code while you take the course. A good strategy is:
+I also **strongly recommend** you code while you take the code tour. A good strategy is:
 
 1. Watch the video intently, optionally while taking notes.
 2. Watch again, more quickly, while typing the code together with me.
